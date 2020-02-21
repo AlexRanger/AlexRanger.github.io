@@ -4,7 +4,7 @@
 	.services-item {
 		max-width: 95%;
 		min-height: 330px;
-		margin: 30px auto;
+		margin: 0px auto;
 	}
 	.services-items {
 		display: block;
@@ -104,6 +104,9 @@
     .advantages-item {
     	max-width: 100%;
     	margin-bottom: 30px;
+    }
+    .form-text {
+    	margin-bottom: -35px;
     }
 }
 
