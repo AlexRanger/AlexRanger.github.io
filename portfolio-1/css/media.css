@@ -177,6 +177,9 @@
 }
 @media (max-width: 414px) {
 	.slider-title {
+		margin-top: -40px;
+	}
+	.slider-title {
 		font-size: 24px;
 	}
 	.slider-text {
