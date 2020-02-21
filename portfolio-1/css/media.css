@@ -164,6 +164,13 @@
 	.news-slider-inner .slick-btn {
 		bottom: -90px;
 	}
+	.slider {
+	background-image: url(../img/slider-fon.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	min-height: 450px;
+}
 }
 @media (max-width: 414px) {
 	.slider-title {
